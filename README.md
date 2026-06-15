@@ -3,7 +3,7 @@
 An interactive quantitative finance tool that models Bitcoin's long-term price trajectory as a biological phenomenon. Based on the seminal research paper **"Bitcoin Spreads Like a Virus"** (2019) by Timothy Peterson, this project fetches live historical data and fits it to a non-linear Gompertz growth curve using network effect mechanics.
 
 ## 📈 Theoretical Background
-
+Reference：👉 SSRN Abstract 3356098
 Unlike traditional assets, decentralized networks propagate much like biological viruses or tumor growths. This project utilizes the **Gompertz Growth Function** (an asymmetrical sigmoid curve) combined with **Metcalfe's Law** to map out Bitcoin’s structural valuation center over time, filtering out short-term speculative market noise.
 
 The underlying math model is expressed as:
